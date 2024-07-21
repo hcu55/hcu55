@@ -45,16 +45,25 @@ Jeonghyo Kim, Seungha Noh, Sunwoo Pi, Wonbeen Im, Chanui Hong, Sangjin Kim<br>"A
 
 
 <h3 align="center">🏆 &nbsp Awards &nbsp 🏆</h3>
-<div align="center">
-  
+<p align="center">
+
+한국정보기술학회, 하계종합학술대회 및 대학생 논문경진대회 🥉 동상 (Jun. 2023)<br><br>
+경기대학교, AI컴퓨터공학 산학협력 프로젝트 경진대회 🥇 대상 (Jun. 2023)<br><br>
+경기대학교, SW상상기업 프로그램 경진대회 🏆 우수 사업계획서상 (Aug. 2023)<br><br>
+경기대학교, SW상상기업 프로그램 경진대회 🥈 우수상 (Nov. 2023)<br><br>
+과학기술정보통신부, 공개SW 개발자대회 🥉 큐브리드 대표상(동상) (Dec. 2023)
+<!--
 | <img src="https://github.com/user-attachments/assets/121cac8a-82e3-4879-9f82-1205e7131cac" width="150px"> | <img src="https://github.com/user-attachments/assets/a218a9c9-f4f2-4391-b96d-b3d1ed550b82" width="150px"> | <img src="https://github.com/user-attachments/assets/a4a4e765-39c4-4124-904f-3b9a7674f387" width="150px"> |
 |:--:|:--:|:--:|
 | **한국정보기술학회<br>한국정보기술학회 대학생 논문경진대회<br>🥉 동상 (Jun. 2023)** | **경기대학교<br>AI컴퓨터공학 산학협력 프로젝트 경진대회<br>🥇 대상 (Jun. 2023)** | **경기대학교<br>SW상상기업 프로그램 경진대회<br>🏆 우수 사업계획서상 (Aug. 2023)** |
-
+-->
+<!--
 | <img src="https://github.com/user-attachments/assets/f5ec5d64-2d65-433e-af9c-4d54fa9394c7" width="150px"> | <img src="https://github.com/user-attachments/assets/cfb7374a-3f4d-4c7b-9509-00969bbee8cb" width="150px"> |
 |:--:|:--:|
 | **경기대학교<br>SW상상기업 프로그램 경진대회<br>🥈 우수상 (Nov. 2023)** | **과학기술정보통신부<br>공개SW 개발자대회<br>🥉 큐브리드 대표상(동상) (Dec. 2023)** |
-</div>
+-->
+
+</p>
 
 <br>
 <h3 align="center">📜 &nbsp Certificate &nbsp 📜</h3>
@@ -66,15 +75,15 @@ SQL Developer(SQLD) certificate (Jun. 2024)<br>
 <br>
 <h3 align="center">🌈 &nbsp Follow Me &nbsp 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@ppssww1202"><img height=27em src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@hcu55/posts"/></a>&nbsp
-  <a href="mailto:ppssww1202@gmail.com"><img height=27em src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=hongcu55@gmail.com"/></a>
+  <a href="https://velog.io/@hcu55"><img height=27em src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@hcu55/posts"/></a>&nbsp
+  <a href="mailto:hongcu55@gmail.com"><img height=27em src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=hongcu55@gmail.com"/></a>
 </p>
 <br>
 <h3 align="center">👩‍💻 &nbsp My GitHub Stats &nbsp 👩‍💻</h3>
 <p align = "center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=hcu55&cache_seconds=1800&theme=dracula" >
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hcu55&cache_seconds=1800&theme=dracula"/>
-  <img height= "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcu55&layout=compact&cache_seconds=1800&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/?username=hcu55&layout=compact&cache_seconds=1800&theme=dracula" >
+  <!--<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hcu55&cache_seconds=1800&theme=dracula"/>-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcu55&layout=compact&cache_seconds=1800&theme=dracula"/>
 </p>
 
 
