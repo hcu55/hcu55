@@ -71,6 +71,7 @@ Jeonghyo Kim, Seungha Noh, Sunwoo Pi, Wonbeen Im, Chanui Hong, Sangjin Kim<br>"A
 <p align="center">
 정보처리기사 certificate (Sep. 2023)<br>
 SQL Developer(SQLD) certificate (Jun. 2024)<br>
+OPIc IM2 certificate (Sep. 2024)<br>
 </p>
 
 <br>
