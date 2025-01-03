@@ -29,7 +29,7 @@
 B.S, Computer Engineering, Kyonggi Univ. (Mar. 2018 - Feb. 2024)<br>
 SW 중심대학 하계 싱가포르 글로벌 SW 개발프로젝트, Vellas Pte Ltd. (Aug. 16th 2023 - Aug. 27th 2023)<br>
 2023 SW인재 페스티벌 경기대학교 대표 (Nov. 2nd 2023 - Nov. 4th 2023)<br>
-Woori FISA Cloud Service Development, 우리 FISA. (Jul. 2024 ~ )
+Woori FISA Cloud Service Development, 우리 FISA. (Jul. 8th 2024 - Dec. 18th 2024)
 </p>
 <br>
 <h3 align="center">📰 &nbsp Papers &nbsp 📰</h3>
@@ -72,6 +72,7 @@ Jeonghyo Kim, Seungha Noh, Sunwoo Pi, Wonbeen Im, Chanui Hong, Sangjin Kim<br>"A
 정보처리기사 certificate (Sep. 2023)<br>
 SQL Developer(SQLD) certificate (Jun. 2024)<br>
 OPIc IM2 certificate (Sep. 2024)<br>
+PCCP Lv.1 certificate (Nov. 2024)
 </p>
 
 <br>
