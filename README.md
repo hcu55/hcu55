@@ -89,7 +89,7 @@ PCCP Lv.1 certificate (Nov. 2024)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcu55&layout=compact&cache_seconds=1800&theme=dracula"/>
 </p>
 
-
+<!--
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hcu55&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/hcu55"
@@ -97,6 +97,7 @@ PCCP Lv.1 certificate (Nov. 2024)
   height="250"
 />
 </a>
+-->
 
 <br>
 <br>
